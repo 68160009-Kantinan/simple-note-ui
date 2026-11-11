@@ -1,0 +1,8 @@
+build/
+out/
+dist/
+data/
+test-data/
+*.properties
+*.properties.bak
+.idea/workspace.xml
